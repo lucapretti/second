@@ -1,2 +1,3 @@
 Nuovo testo
 Aggiunta fatta nel repository principale dei files comuni
+Nuova riga aggiunta dopo
