@@ -1,1 +1,2 @@
 Nuovo testo
+Aggiunta fatta nel repository principale dei files comuni
